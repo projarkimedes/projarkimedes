@@ -24,3 +24,16 @@ Linguagens Usadas:
 **Sistemas operacionais:** *Ubuntu - Windows*
 
 **Banco de dados:** *Oracle - MySQL - SqLite*
+
+---
+
+Sobre mim:
+
+> Sou um terceira idade antenado em tecnologia,comunicativo,estou sempre buscando aprender cada vez mais,gosto de ler.
+
+```python
+if disponivel == True:
+    print('Feliz da Vida')
+else:
+    print('Sempre tentado')
+    
