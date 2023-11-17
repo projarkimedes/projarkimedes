@@ -6,6 +6,9 @@ dos disketes,Cobol,Fortran,Ada enfim uns tempos na IBM,por força do destino fui
 e agora bateu aquela saudade de ficar sentando atrás da tela e voltar a fazer parte dessa comunidade maravilhosa
 que é tecnologia da informação.Sejam muito bem vindo (a)!
 
+
+---
+
 Linguagens Usadas:
 - Python
 - Java
@@ -15,6 +18,7 @@ Linguagens Usadas:
 - HTML
 - CSS
 
+---
 **Tecnologias abordadas:** *Bootstrap - Nodejs - Azure - Vscode - Git - GitHub - Inteligência Artificial*
 
 **Sistemas operacionais:** *Ubuntu - Windows*
